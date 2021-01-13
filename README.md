@@ -6,3 +6,13 @@ One of the best projects for learning CSS and JavaScript is an analog clock. Cre
 
 
 In this REPO we will be covering CSS position, and transform extensively. We will also use CSS variables to make the JavaScript integration much easier. By the end of this quick video you will have a fully functional clock and more importantly increased your CSS and JavaScript skills significantly.
+
+
+🧠 Concepts Covered:
+
+- How to use CSS variables in JavaScript
+- JavaScript date object
+- How to use CSS transform to center elements
+- How to use CSS transform to rotate elements on an axis
+- Using data attributes as selectors in JavaScript
+- Basic CSS pseudo element usage
