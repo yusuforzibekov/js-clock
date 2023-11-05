@@ -1,1 +1,2 @@
 # js-clock
+Hello folks. I want to introduce a clock which is written in `JavaScript` programming language. There would be some issues ragarding to css media. I think you can enjoy of the view. You can watch the source code opening the link in description section. By the way, don't forget to star the repository, it is important, because when you click star you encouraged to work. 
