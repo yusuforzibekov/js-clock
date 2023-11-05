@@ -12,6 +12,7 @@ body {
     align-items: center;
     min-height: 100vh;
     overflow: hidden;
+    user-select: none;
 }
 
 .clock {
@@ -28,7 +29,6 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    /* background: #999; */
     text-align: center;
     transform: rotate(var(--rotation));
     font-size: 1.5rem;
